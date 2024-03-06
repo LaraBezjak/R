@@ -1,0 +1,7 @@
+sample	status	info
+SLO1	1	response
+SLO3	1	response
+SLO4	1	response
+SLO5	0	nonresponse
+SLO7	0	nonresponse
+SLO8	0	nonresponse
